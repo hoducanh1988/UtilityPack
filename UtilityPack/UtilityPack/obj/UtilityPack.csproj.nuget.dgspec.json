@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chien\\source\\repos\\_Git_________________________________\\UtilityPack\\UtilityPack\\UtilityPack.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chien\\source\\repos\\_Git_________________________________\\UtilityPack\\UtilityPack\\UtilityPack.csproj": {
+      "version": "1.0.8.9",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chien\\source\\repos\\_Git_________________________________\\UtilityPack\\UtilityPack\\UtilityPack.csproj",
+        "projectName": "UtilityPack",
+        "projectPath": "C:\\Users\\chien\\source\\repos\\_Git_________________________________\\UtilityPack\\UtilityPack\\UtilityPack.csproj",
+        "packagesPath": "C:\\Users\\chien\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chien\\source\\repos\\_Git_________________________________\\UtilityPack\\UtilityPack\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\_____C#": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "NAudio": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
